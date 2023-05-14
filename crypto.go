@@ -1,4 +1,4 @@
-package merkle-patricia-trie
+package merklepatriciatrie
 
 import "golang.org/x/crypto/sha3"
 

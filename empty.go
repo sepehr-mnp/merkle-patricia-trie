@@ -1,4 +1,4 @@
-package merkle-patricia-trie
+package merklepatriciatrie
 
 import "encoding/hex"
 
