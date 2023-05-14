@@ -10,9 +10,7 @@ type BranchNode struct {
 }
 
 func NewBranchNode() *BranchNode {
-	return &BranchNode{
-		Branches: [16]Node{}
-	}
+	return &BranchNode{Branches: [16]Node{}}
 }
 
 func (b BranchNode) Hash() []byte {
