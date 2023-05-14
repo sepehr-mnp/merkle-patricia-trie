@@ -1,4 +1,4 @@
-package merklepatriciatrie
+package main
 
 import (
 	"github.com/ethereum/go-ethereum/crypto"
